@@ -1,0 +1,21 @@
+h1{
+   color:aqua;
+   font-size: 40px;
+   font-family:fantasy;
+   text-align: center;
+    background-color: deepskyblue;
+}
+table{
+ font-family: inherit; 
+ border-collapse:collapse;
+    background-color:aquamarine;
+}
+th{
+   font-weight :800;
+   background-color: aquamarine;
+   color: antiquewhite;
+}
+th{
+    font-weight :800;
+    background-color: antiquewhite;
+    color:aquamarine
